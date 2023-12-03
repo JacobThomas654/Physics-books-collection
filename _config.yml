@@ -29,7 +29,7 @@ description: "CollectionBuilder-GH is a template for creating small digital coll
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
-background-image: 'https://img.freepik.com/premium-photo/books-enter-into-screen-e-book_207634-4022.jpg'
+background-image: https://img.freepik.com/premium-photo/books-enter-into-screen-e-book_207634-4022.jpg
 
 ##########
 # COLLECTION SETTINGS
