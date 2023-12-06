@@ -4,12 +4,16 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-location,Location
+publishedlocation,Published Location
 latitude,Latitude
 longitude,Longitude
 source,Source
-identifier,Source Identifier,,
+oclcidentifier,OCLC Identifier,,
 type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+isbn,ISBN
+iccn,ICCN
+icclassification,IC Classification
+series,Series
