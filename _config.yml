@@ -22,10 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: IIT Society of Physics Students Library Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: 
+tagline: Exploring the Cosmos: IIT SPS Physics Library Chronicles
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-#description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Explore the IIT Society of Physics Students Library Collection, a digital repository dedicated to storing and displaying a unique collection of physics books donated by the Adler Planetarium. This collection offers a wealth of knowledge on the intricacies of physics and the cosmos."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
