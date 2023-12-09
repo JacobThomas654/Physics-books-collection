@@ -22,7 +22,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # title of site appears in banner
 title: IIT Society of Physics Students Library Collection
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Exploring the Cosmos: IIT SPS Physics Library Chronicles
+tagline: Exploring the Cosmos,IIT SPS Physics Library Chronicles
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Explore the IIT Society of Physics Students Library Collection, a digital repository dedicated to storing and displaying a unique collection of physics books donated by the Adler Planetarium. This collection offers a wealth of knowledge on the intricacies of physics and the cosmos."
@@ -44,7 +44,7 @@ metadata: demo-metadata
 #
 # organization-name: "Center for Digital Inquiry and Learning (CDIL)"
 organization-link: https://cdn.filestackcontent.com/Kv593SgtQIiIP06RVeYb
-organization-logo-banner:https://media.licdn.com/dms/image/D560BAQFgZU4ufu5ikQ/company-logo_200_200/0/1688607525861/spsiit_logo?e=2147483647&v=beta&t=LL-uWdkhu3u5eNKkk8PObBb0YVAmJaXfTTMib2L-hrw
+#organization-logo-banner:https://media.licdn.com/dms/image/D560BAQFgZU4ufu5ikQ/company-logo_200_200/0/1688607525861/spsiit_logo?e=2147483647&v=beta&t=LL-uWdkhu3u5eNKkk8PObBb0YVAmJaXfTTMib2L-hrw
 organization-logo-nav: https://cdn.filestackcontent.com/Kv593SgtQIiIP06RVeYb
 
 
